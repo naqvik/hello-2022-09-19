@@ -1,3 +1,4 @@
+/** a hello project **/
 #include <iostream>
 #include <cmath>
 
